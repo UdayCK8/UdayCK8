@@ -1,5 +1,6 @@
 # 💫 About Me:
-MCA
+ Aspiring "Master's of Computer Application" | Python |    Networking | Cybersecurity | JavaScript
+ 
 
 
 ## 🌐 Socials:
