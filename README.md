@@ -1,7 +1,11 @@
 
 
-Hi........... am Uday here!
+Hi........... am Uday here 👋!
 
+
+
+
+I have a strong base in Python, known for its simple syntax and use in web development, data analysis, and cybersecurity. I use HTML to structure pages and CSS, combined with Bootstrap, to design modern, responsive websites quickly. I add interactivity using JavaScript to make web apps dynamic and user-friendly. I work with MySQL for efficient data storage and management. I also understand the basics of cybersecurity, including authentication, encryption, safe browsing, and threat prevention.
 
 
 
